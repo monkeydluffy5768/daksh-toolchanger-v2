@@ -22,10 +22,10 @@ The design is open source and can be used freely for non commercial purposes.
 
 Do join the discord group at the link below and subscribe to the Youtube channel for more updates and interesting projects like this.
 
-* Github - https://github.com/ankurv2k6/wp-daksh-toolchanger-v2
-* Youtube - https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w
-* Daksh V2 Discord - https://discord.gg/Kz9VC8rWPg
-* BOM - [Here](google.com)
+* [Github](https://github.com/ankurv2k6/wp-daksh-toolchanger-v2)
+* [Youtube](https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w)
+* [Daksh V2 Discord](https://discord.gg/HQWDepWG)
+* [BOM](https://github.com/ankurv2k6/daksh-toolchanger-v2/tree/main/BOM)
 
 
 #TinkerCAD 3D Model
