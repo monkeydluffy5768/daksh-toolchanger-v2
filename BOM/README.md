@@ -1,3 +1,5 @@
+Create a copy of Excel sheet to act as your own checklist 
+
 |                      Item                     | Quantity |
 |:---------------------------------------------:|:--------:|
 | UM Bed Spring 6MM OD / 5MM ID                 |     8    |
